@@ -6,5 +6,8 @@
  * Time: 07:02 PM
  */
 function sampel(){
-    
+
+}
+function sampel2(){
+
 }
